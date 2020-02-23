@@ -41,7 +41,7 @@ Jamber, it was my first jam. at that time I don't know about jam or game develop
 
 
 
-- [Read More](/Game-Project)
+[Read More](/Game-Project)
 ---
 
 ## Skill 
