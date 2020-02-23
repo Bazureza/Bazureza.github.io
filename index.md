@@ -47,8 +47,8 @@ Jamber, it was my first jam. at that time I don't know about jam or game develop
 ## Skill 
 
 <img src="images/pngkit_unity-logo-white-png_9018983.png?raw=true" width="42" height="42" />
-<img src="images/aaa.png?raw=true" width="42" height="42" />
-
+<img src="images/Construct_3_Logo.svg.png?raw=true" width="42" height="42" />
+<img src="images/hiclipart.com.png?raw=true" width="42" height="42" />
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
