@@ -17,7 +17,7 @@ Link : [Spacecraft Impact](https://globalgamejam.org/2020/games/spacecraft-impac
 
 # Pejuang Wars
 
-[Image](/images/Screenshot_20190113_104138.jpg)
+![Image](/images/Screenshot_20190113_104138.jpg)
 
 The Save Santa Game tells the story of Santa who wants to go to his reindeer vehicle but is obstructed by many zombies. 
 Player must kill the zombies, by pointing the mouse pointer to the zombies and right click the mouse to do a hit until 
