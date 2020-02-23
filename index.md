@@ -8,10 +8,10 @@ Game Jams are one of my favourite things to do, but I also regularly have hobby 
 
 ***
 # Table of Contents
-* [Adventure of time about my self](#Adventure-of-time-about-my-self)
-    * [Jamber](#Jamber)
-    * [Global Game Jam 2019](#Global-Game-Jam-2019)
-* [Game Project](#Game-Project)
+* [Adventure of time about my self](#adventure-of-time-about-my-self)
+    * [Jamber](#jamber)
+    * [Global Game Jam 2019](#global-game-jam-2019)
+* [Game Project](#game-project)
 * [skill](#skill)
 
 ***
