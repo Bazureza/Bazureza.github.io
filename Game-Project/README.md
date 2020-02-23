@@ -7,11 +7,9 @@
 
 ![Image](/images/LB2.png)
 
-Spacecraft Impact is my first 3D game, developed at Global Game Jam 2020 on Surabaya. With the theme "Repair" for this year and inspired
-from Space Engineer and Dead By Dead By Daylight game, my team has an idea to develops this game. The player must
-protect the spacecraft and repair it when the part is broken.
+Lost boy is a horror point click game. The story is about a boy who get lost and find a house in the jungle. But he notice the house is wrong so he decide to leave but he get locked. So he should find a way to get out.
 
-Link : [Spacecraft Impact](https://globalgamejam.org/2020/games/spacecraft-impact-6)
+[Lost Boy](https://drive.google.com/file/d/1Nw5P9c0tcsoN8DqEHXOxCWIL6TF0dRQA/view) 
 
 ***
 
@@ -19,9 +17,8 @@ Link : [Spacecraft Impact](https://globalgamejam.org/2020/games/spacecraft-impac
 
 ![Image](/images/Screenshot_20190113_104138.jpg)
 
-The Save Santa Game tells the story of Santa who wants to go to his reindeer vehicle but is obstructed by many zombies. 
-Player must kill the zombies, by pointing the mouse pointer to the zombies and right click the mouse to do a hit until 
-the zombies die. For the first stage will be shown a text tutorial for the player.
+Pejuang wars is a casual game with shooting mechanic with a spice about Indonesian history. The story is about a volunteer who want defend their freedoms agains invaders.
+The game is single-player against an enemy and the more player kills the enemy the more the player gets the high score.
 
 Status : Prototype
 
@@ -31,10 +28,8 @@ Status : Prototype
 
 ![Image](/images/Untitled.png)
 
-Tap Jet is a 2D game genre that has a theme space with casual game concept. With a backstory about Planet Ngalam 
-looking for a new place but must save fuel with the latest technological methods created by Planet Ngalam to move 
-forward faster in space. Tap Jet has an art style pixel art, dark colored adapts to the theme of the space presented.
-
+Pesawat is a 2D game genre that has a theme space with casual game concept. The story is about one pilot who wanna survive in outer space agains aliens who want seek to kill the last human.
+The game is single-player against an enemy and the more player kills the enemy the more the player gets the high score.
 Status : Prototype
 
 ***
@@ -68,11 +63,7 @@ Link : [Marapi](https://penguin55.itch.io/marapi-tftm)
 
 ![Image](/images/Capture.PNG)
 
-Doctor DO game is game based learning for persons with disabilities, equipped with a virtual mentor and equipped with 
-inspiring figure that has succeeded to prove their capability and learning methods that are used as an effort to approach 
-learning for disabilities. DD Based 1 is an exciting new learning based Role Playing Game (RPG) in which you get 
-to experience the life of an Inspiring person with disabilities. Every detail has been attended to so that players also can 
-motivate themselves to become that inspiring figures too.
+Your world is under attack! A group of an alien is invading our homeland! Protect yourself and your homeland with your infinite homing missile. Be the saviour of your homeland and stand in the top as hero of the earth!
 
 [Eggy's Revenge](https://globalgamejam.org/2019/games/eggys-revenge) 
 
