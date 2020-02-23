@@ -1,8 +1,8 @@
-title:  <font color="red">Bayu Reza Gunawan</font>  # your name (or website title) here
+title:  <div align="center"> <font color="red">Bayu Reza Gunawan</font> </div> # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Student of Brawijaya University
-  Game Programmer and 2D artist
+  <b> Student of Brawijaya University
+  Game Programmer and 2D artist </b>
   <br><br>
   <a href="https://www.linkedin.com/in/bayu-reza-gunawan-0455ba187/">View My LinkedIn Profile</a> 
   
