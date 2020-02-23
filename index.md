@@ -39,7 +39,7 @@ Jamber, it was my first jam. at that time I don't know about jam or game develop
 
 ### Eggy's Revenge
 
-<img src="images/Capture.png?raw=true"/>
+<img src="images/Capture.PNG?raw=true"/>
 
 Your world is under attack! A group of an alien is invading our homeland! Protect yourself and your homeland with your infinite homing missile. Be the saviour of your homeland and stand in the top as hero of the earth!
 
