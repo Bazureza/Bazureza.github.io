@@ -1,5 +1,9 @@
 ## About Me
+Hello, my name is Bayu Reza Gunawan and I am a 2D programmer. I am currently studying at Brawijaya university and I take Major of Informatics Engineering.
 
+My main interests are gameplay and AI. I love creating the feel of a game, such as making a jump feel nice or tweaking movement speeds. I like collaborating with designers to create cool, weird or unique mechanics.
+
+Game Jams are one of my favourite things to do, but I also regularly have hobby projects to work on in my spare time. 
 ---
 
 ### Category Name 1 
