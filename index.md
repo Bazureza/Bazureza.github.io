@@ -45,7 +45,10 @@ Jamber, it was my first jam. at that time I don't know about jam or game develop
 
 ---
 
+## Skill 
 
+<img src="images/pngkit_unity-logo-white-png_9018983.png?raw=true"/>
+<img src="images/aaa.png?raw=true"/>
 
 
 ---
