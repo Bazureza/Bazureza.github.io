@@ -6,9 +6,20 @@ Game Jams are one of my favourite things to do, but I also regularly have hobby 
 
 ---
 
+***
+# Table of Contents
+* [Adventure of time about my self](#Adventure-of-time-about-my-self)
+    * [Jamber](#Jamber)
+    * [Global Game Jam 2019](#Global-Game-Jam-2019)
+* [Game Project](#Game-Project)
+* [skill](#skill)
+
+***
+
+
 ## Adventure of time about my self 
 
-### Jamber (Jam Bersama)
+### Jamber
 Jamber, it was my first jam. at that time I don't know about jam or game development all I know it was an event about making games.  Personally, I love playing a game and because of that,  I am interested to move from player to creator.  It was my friend who asks me to join. All I know back then just try and learn all about game programming. Yeah, that was a great moment, because from that start, now I become more passionate to create games.
 
 [Lost Boy](https://drive.google.com/file/d/1Nw5P9c0tcsoN8DqEHXOxCWIL6TF0dRQA/view) 
@@ -23,10 +34,6 @@ Jamber, it was my first jam. at that time I don't know about jam or game develop
 [Eggy's Revenge](https://globalgamejam.org/2019/games/eggys-revenge) 
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ## Game Project
 
@@ -34,21 +41,13 @@ Jamber, it was my first jam. at that time I don't know about jam or game develop
 
 
 
-- [Project 1 Title](http://example.com/)
-
-
-
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
+- [Read More](/Game-Project)
 ---
 
 ## Skill 
 
 <img src="images/pngkit_unity-logo-white-png_9018983.png?raw=true" width="42" height="42" />
-<img src="images/aaa.png?raw=true"/>
+<img src="images/aaa.png?raw=true" width="42" height="42" />
 
 
 ---
