@@ -37,11 +37,14 @@ Jamber, it was my first jam. at that time I don't know about jam or game develop
 
 ## Game Project
 
-### Lost Boy
+### Eggy's Revenge
 
+<img src="images/capture.png?raw=true"/>
 
+Your world is under attack! A group of an alien is invading our homeland! Protect yourself and your homeland with your infinite homing missile. Be the saviour of your homeland and stand in the top as hero of the earth!
 
 [Read More](/Game-Project)
+
 ---
 
 ## Skill 
